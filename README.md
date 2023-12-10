@@ -4,7 +4,7 @@
 
 | circle | 이름 | 기간 | 점수 | 설명 |
 | --- | --- | --- | --- | --- |
-| - | C Piscine | 2023/02/06 → 2023/03/03 | - | |
+| - | C Piscine | 2023/02/06 → 2023/03/03 | - | [C Piscine](https://github.com/klloo/42seoul/blob/main/CPiscine/readme.md)|
 | 0 | Libft | 2023/03/14 → 2023/03/26 | 125 | [Libft](https://dapper-flock-ef8.notion.site/Libft-faf957944dc34253a83700bfad14a1d6?pvs=4) |
 | 1 | ft_printf | 2023/03/27 → 2023/04/03 | 100 | [ft_printf](https://dapper-flock-ef8.notion.site/ft_printf-f18fe02fa1ed427aa6ce3f3d5cf6b6c8?pvs=4) |
 | 1 | get_next_line | 2023/04/17 → 2023/04/21 | 125 | [get_next_line](https://dapper-flock-ef8.notion.site/get_next_line-3e55fd4781ea42e39c0e8ec93d122759?pvs=4) |
